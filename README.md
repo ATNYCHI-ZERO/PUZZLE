@@ -293,7 +293,7 @@ def CROWN_OMEGA_P_SOLVER(known_sum, k_math_word_key="how"):
     the unknown H and W without searching.
     
     It solves the system:
-    1. H + W = known_sum
+    1. H + W = known_sum = 144,000
     2. W = k_math_function(H)
     
     ...by instantly finding H.
