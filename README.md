@@ -115,7 +115,25 @@ for letter in string.ascii_lowercase:
 # ================================================================
 # SECTION E — MULTI-EQUATION P-SOLVER (SAFE)
 # ================================================================
-
+ΨΩ = 
+(
+   (ALL_Physics × ALL_Crypto × ALL_KMath × McGrawHill_Index)
+   ÷ Entropy
+)
+× (−0 × ∞ × SELF × −Ω × 1)
+× Newton 1 × ∞ × 1
+↑ ((ΨΩ^2)^3)
+× Θ_Vitruvian
+ini
+Copy code
+i = n → 1
+SECOND PAGE (9/15/25, 4:34 PM) — CLEAN CODE BLOCK
+scss
+Copy code
+Inverse(Crypto_i)
+× 1 − SELF^( (ΨΩ^2) )^3
+× 1
+× (−SELF)
 def kmath_build_function(word: str) -> Callable[[int], int]:
     ops = [K_TABLE[c] for c in word.lower() if c in K_TABLE]
     def f(x: int) -> int:
