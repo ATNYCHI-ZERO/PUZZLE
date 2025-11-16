@@ -9,7 +9,7 @@
 #    D. K-Math Operator Algebra Library
 #    E. Multi-Equation P-Solver
 #    F. EDENIC ROOTBLOCK 144 Integration
-#
+#~2^256
 #  SAFE | NON-CRYPTOGRAPHIC | NON-WEAPONIZED
 #
 #  Author: Brendon Joseph Kelly (K-Math Framework)
